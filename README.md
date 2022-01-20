@@ -5,7 +5,7 @@ Data for "Identification of Disease or Symptom terms in Reddit to Improve Health
 # Data contains 2 columns: 
 <!-- Text and Label (0 for Figurative Mention (FM), 1 for Non-Health Mention (NHM), and 2 for Health Mention (HM)) -->
 
-**Below are the statistics of the three-class version of the released data (used in our accepted Webconf (WWW) paper**
+**Below are the statistics of the three-class version of the released data (used in our accepted Webconf (WWW) paper)**
 
 | Label        | Label Description           | Count |
 | ------------- |-------------| -------------|
